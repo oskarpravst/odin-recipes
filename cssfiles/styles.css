@@ -1,0 +1,11 @@
+h1
+{
+    background-color: #FFE4C4;
+    color: #79443B;
+}
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+.title {
+    font-size: 28px;
+}
