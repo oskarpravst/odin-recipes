@@ -1,11 +1,24 @@
-h1
+h1,
+h3
 {
     background-color: #FFE4C4;
     color: #79443B;
+    border: #79443B solid 5px;
+
 }
 * {
     font-family: "Lucida Console", "Courier New", monospace;
+    background-color: #FFCD91;
+    
 }
 .title {
     font-size: 28px;
+    background-color: #FFE4C4;
+    color: #79443B;
+    margin: 20px;
+    padding: 10px;
+    border: #79443B solid 5px;   
+}
+a {
+    background-color: #FFE4C4
 }
